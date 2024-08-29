@@ -1,6 +1,6 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
+company: "Graffitecs"
+role: "Junior React Developer"
 dateStart: "11/27/2022"
 dateEnd: "Current"
 ---

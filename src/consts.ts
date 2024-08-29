@@ -2,10 +2,11 @@ import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
   NAME: "Yasir Khan",
-  EMAIL: "markhorn.dev@gmail.com",
+  EMAIL: "yasirkhanone22@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 2,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
+  LOGO_URL: "https://i.postimg.cc/W382nVGF/logo.webp"
 };
 
 export const HOME: Metadata = {
@@ -30,15 +31,11 @@ export const PROJECTS: Metadata = {
 
 export const SOCIALS: Socials = [
   {
-    NAME: "twitter-x",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
-  {
-    NAME: "github",
+    NAME: "Github",
     HREF: "https://github.com/yasir-khan22"
   },
   {
-    NAME: "linkedin",
+    NAME: "Linkedin",
     HREF: "https://www.linkedin.com/in/khanzada22"
   }
 ];

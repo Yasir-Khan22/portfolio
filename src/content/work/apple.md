@@ -1,6 +1,6 @@
 ---
-company: "Apple"
-role: "Software Engineer"
+company: "Corvit Systems Lahore"
+role: "Web Developer"
 dateStart: "01/01/2020"
 dateEnd: "11/27/2022"
 ---
