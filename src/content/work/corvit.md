@@ -1,7 +1,7 @@
 ---
 company: "Corvit Systems Lahore"
 role: "Web Developer"
-dateStart: "01/01/2020"
+dateStart: "01/01/2021"
 dateEnd: "11/27/2022"
 ---
 
