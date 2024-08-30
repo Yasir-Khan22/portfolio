@@ -5,4 +5,5 @@ dateStart: "11/27/2022"
 dateEnd: "10/10/2023"
 ---
 
-Sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor.
+- Utilized the CSS expertise and assisted in addressing and resolving CSS related issues of admin dashboard by using the knowledge of Material UI.
+- Reduced its 10% User Interface issues.

@@ -6,14 +6,18 @@ import { SITE } from "@consts";
 
 <header>
   <Container>
-    <div class="flex flex-wrap gap-y-2 justify-between">
+    <div class="flex flex-wrap gap-y-2 justify-between items-center">
       <Link href="/" underline={false}>
-        <div class="">
+        <div>
           {
             SITE.LOGO_URL ? (
-              <img src={SITE.LOGO_URL} alt={SITE.NAME} class="h-1/3" />
+              <img
+                src={SITE.LOGO_URL}
+                alt={SITE.NAME}
+                class="h-1/3 rounded-full dark:bg-white"
+              />
             ) : (
-              SITE.NAME
+              <span class="text-black dark:text-white">SITE.NAME</span>
             )
           }
         </div>
