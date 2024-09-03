@@ -6,7 +6,7 @@ demoURL: "https://lite-dictionary.netlify.app/"
 repoURL: "https://github.com/Yasir-Khan22/Dictionary-Lite"
 ---
 
-![Dictionary Project Image](/astro-sphere.jpg)
+<!-- insert project image  -->
 
 A lite version of Dictionary app. I've used unofficial google free version of api. I'll load it with more features in upcoming days.✨🎉⭐
 
