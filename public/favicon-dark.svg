@@ -1,28 +1,28 @@
 <svg width="834" height="834" viewBox="0 0 834 834" fill="none" xmlns="http://www.w3.org/2000/svg">
     <g clip-path="url(#clip0_4_66)">
-        <path d="M347.5 278L417 451.75L486.5 278" stroke="black" stroke-width="69.5" stroke-linecap="round"
+        <path d="M347.5 278L417 451.75L486.5 278" stroke="white" stroke-width="69.5" stroke-linecap="round"
             stroke-linejoin="round" />
-        <path d="M417 556V451.75" stroke="black" stroke-width="69.5" stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M297.46 128.225C259.516 143.932 225.037 166.958 195.99 195.988" stroke="black" stroke-width="69.5"
+        <path d="M417 556V451.75" stroke="white" stroke-width="69.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M297.46 128.225C259.516 143.932 225.037 166.958 195.99 195.988" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M128.228 297.462C112.47 335.35 104.323 375.968 104.25 417.002" stroke="black" stroke-width="69.5"
+        <path d="M128.228 297.462C112.47 335.35 104.323 375.968 104.25 417.002" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M128.228 536.538C143.934 574.482 166.96 608.962 195.99 638.008" stroke="black" stroke-width="69.5"
+        <path d="M128.228 536.538C143.934 574.482 166.96 608.962 195.99 638.008" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M297.46 705.775C335.348 721.532 375.966 729.679 417 729.752" stroke="black" stroke-width="69.5"
+        <path d="M297.46 705.775C335.348 721.532 375.966 729.679 417 729.752" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M536.54 705.772C574.484 690.065 608.964 667.04 638.01 638.01" stroke="black" stroke-width="69.5"
+        <path d="M536.54 705.772C574.484 690.065 608.964 667.04 638.01 638.01" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M705.772 536.54C721.53 498.652 729.677 458.034 729.75 417" stroke="black" stroke-width="69.5"
+        <path d="M705.772 536.54C721.53 498.652 729.677 458.034 729.75 417" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M705.772 297.461C690.065 259.516 667.04 225.037 638.01 195.991" stroke="black" stroke-width="69.5"
+        <path d="M705.772 297.461C690.065 259.516 667.04 225.037 638.01 195.991" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
-        <path d="M536.54 128.228C498.652 112.47 458.034 104.323 417 104.25" stroke="black" stroke-width="69.5"
+        <path d="M536.54 128.228C498.652 112.47 458.034 104.323 417 104.25" stroke="white" stroke-width="69.5"
             stroke-linecap="round" stroke-linejoin="round" />
     </g>
     <defs>
         <clipPath id="clip0_4_66">
-            <rect width="834" height="834" fill="dark" />
+            <rect width="834" height="834" fill="white" />
         </clipPath>
     </defs>
 </svg>
