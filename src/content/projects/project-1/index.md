@@ -8,6 +8,8 @@ repoURL: "https://github.com/Yasir-Khan22/Dictionary-Lite"
 
 <!-- insert project image  -->
 
+![dictionary-lit](/public/dictionary-project.webp)
+
 A lite version of Dictionary app. I've used unofficial google free version of api. I'll load it with more features in upcoming days.✨🎉⭐
 
 ## 🚀 Deploy your own
@@ -42,7 +44,7 @@ Rendered in ~40ms on localhost
 
 ## 📄 Configuration
 
-The blog posts on the demo serve as the documentation and configuration.
+The lite dictionary on the demo serve as the documentation and configuration.
 
 ## 💻 Commands
 
@@ -50,17 +52,17 @@ All commands are run from the root of the project, from a terminal:
 
 Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
 
-| Command                   | Action                                            |
-| :------------------------ | :------------------------------------------------ |
-| `npm install`             | Installs dependencies                             |
-| `npm run dev`             | Starts local dev server at `localhost:4321`       |
-| `npm run sync`            | Generates TypeScript types for all Astro modules. |
-| `npm run build`           | Build your production site to `./dist/`           |
-| `npm run preview`         | Preview your build locally, before deploying      |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check`  |
-| `npm run astro -- --help` | Get help using the Astro CLI                      |
-| `npm run lint`            | Run ESLint                                        |
-| `npm run lint:fix`        | Auto-fix ESLint issues                            |
+| Command                    | Action                                            |
+| :------------------------- | :------------------------------------------------ |
+| `pnpm install`             | Installs dependencies                             |
+| `pnpm run dev`             | Starts local dev server at `localhost:4321`       |
+| `pnpm run sync`            | Generates TypeScript types for all Astro modules. |
+| `pnpm run build`           | Build your production site to `./dist/`           |
+| `pnpm run preview`         | Preview your build locally, before deploying      |
+| `pnpm run astro ...`       | Run CLI commands like `astro add`, `astro check`  |
+| `pnpm run astro -- --help` | Get help using the Astro CLI                      |
+| `pnpm run lint`            | Run ESLint                                        |
+| `pnpm run lint:fix`        | Auto-fix ESLint issues                            |
 
 ## 🏛️ License
 
