@@ -40,7 +40,7 @@ All pages under 100kb (including fonts)
 
 ## ⚡︎ Fast
 
-Rendered in ~40ms on localhost
+Rendered in ~10ms on localhost
 
 ## 📄 Configuration
 
