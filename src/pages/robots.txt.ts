@@ -1,3 +1,5 @@
+/* This TypeScript code snippet is defining a module that handles a GET request for a robots.txt file.
+Here's a breakdown of what the code is doing: */
 import type { APIRoute } from "astro";
 
 const robotsTxt = `
