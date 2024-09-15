@@ -9,6 +9,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        code: ["Roboto Mono", ...defaultTheme.fontFamily.mono],
         sans: ["Karla", ...defaultTheme.fontFamily.sans],
         serif: ["Inconsolata", ...defaultTheme.fontFamily.serif],
       },
