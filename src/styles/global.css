@@ -43,47 +43,10 @@ main {
     @apply  font-code;     
     
   }
-  pre code .line {
-    display: block;
-    counter-increment: line;
-    position: relative;
-    padding-left: 2.5rem; 
-  }
 
-  pre code .line::before  {
-    border-right: 1px solid #404040;
-    color: #858585;
-    content: counter(lineNumber);
-    counter-increment: lineNumber;
-    display: inline-block;
-    font-variant-numeric: tabular-nums;
-    margin-right: 1em;
-    padding-right: 1em;
-    text-align: right;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    width: 2em;
-}
-  
   pre code span {
     @apply text-base;
   }
-  pre::before {
-    content: ' ';
-    position: absolute;
-    height: 1rem;
-    top: 0;
-    bottom: 0;
-    width: 1px;
-    background-color: rgba(255, 255, 255, 0.1)
-  }
-
-  pre code .line:empty::before {
-    content: '\00a0'; 
-  }
-
   span {
     @apply text-lg;
   }
