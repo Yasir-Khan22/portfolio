@@ -37,7 +37,6 @@ Customize your page metadata
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Astro Nano is a minimal and lightweight blog and portfolio.",
 };
 ```
 
