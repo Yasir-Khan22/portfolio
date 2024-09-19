@@ -52,7 +52,3 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 | `pnpm run astro -- --help` | Get help using the Astro CLI                      |
 | `pnpm run lint`            | Run ESLint                                        |
 | `pnpm run lint:fix`        | Auto-fix ESLint issues                            |
-
-## 🏛️ License
-
-MIT
