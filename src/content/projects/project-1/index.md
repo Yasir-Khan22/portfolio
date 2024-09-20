@@ -8,7 +8,7 @@ repoURL: "https://github.com/Yasir-Khan22/Dictionary-Lite"
 
 <!-- insert project image  -->
 
-![dictionary-lite](/dictionary-project.webp)
+![Dictonary-project](/dictionary-project.webp)
 
 A lite version of Dictionary app. I've used unofficial google free version of api. I'll load it with more features in upcoming days.✨🎉⭐
 
@@ -36,8 +36,6 @@ Rendered in ~10ms on localhost
 The lite dictionary on the demo serve as the documentation and configuration.
 
 ## 💻 Commands
-
-All commands are run from the root of the project, from a terminal:
 
 Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
 

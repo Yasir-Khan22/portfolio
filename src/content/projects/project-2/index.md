@@ -6,7 +6,7 @@ demoURL: "https://blogerrr.netlify.app/"
 repoURL: "https://github.com/Yasir-Khan22/Astro-Basics"
 ---
 
-![Bloggerr](/bloggerr.webp)
+![Blogerr](/bloggerr.webp)
 
 Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
 
