@@ -8,7 +8,7 @@ repoURL: "https://github.com/Yasir-Khan22/Dictionary-Lite"
 
 <!-- insert project image  -->
 
-![Dictonary-project](/public/dictionary-project.webp)
+![Dictonary Project](https://i.postimg.cc/x1MRxh8H/dictionary-project.webp)
 
 A lite version of Dictionary app. I've used unofficial google free version of api. I'll load it with more features in upcoming days.✨🎉⭐
 
