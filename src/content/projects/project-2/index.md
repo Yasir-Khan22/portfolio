@@ -37,10 +37,6 @@ No frameworks or added bulk
 
 Rendered in ~40ms on localhost
 
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
 ## 💻 Commands
 
 All commands are run from the root of the project, from a terminal:
