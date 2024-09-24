@@ -8,8 +8,6 @@ repoURL: "https://github.com/Yasir-Khan22/Astro-Basics"
 
 ![Blogerr](https://i.postimg.cc/jjhhKfzS/bloggerr.webp)
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
-
 Built with Astro, Tailwind and Typescript, an no frameworks.
 
 ## 📋 Features
@@ -27,7 +25,7 @@ Built with Astro, Tailwind and Typescript, an no frameworks.
 
 ## 💯 Lighthouse score
 
-![Astro Nano Lighthouse Score](/lighthouse.png)
+![Blogger](/lighthouse.png)
 
 ## 🕊️ Lightweight
 
