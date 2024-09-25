@@ -1,7 +1,7 @@
 {
   "name": "astro-nano",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "astro dev",
     "dev:network": "astro dev --host",
@@ -10,7 +10,8 @@
     "preview:network": "astro preview --host",
     "astro": "astro",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "release": "commit-and-tag-version"
   },
   "dependencies": {
     "@astrojs/check": "^0.5.9",
