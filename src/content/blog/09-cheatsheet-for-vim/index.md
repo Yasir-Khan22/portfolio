@@ -1,7 +1,7 @@
 ---
 title: "Cheatsheet for Vim"
 description: "Basic commands for vim users."
-date: "September 25 2024"
+date: "October 22, 2023"
 draft: false
 ---
 
