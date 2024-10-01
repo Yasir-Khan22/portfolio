@@ -55,3 +55,4 @@ draft: false
 - `vit`: Visual Selection Inside Tag
 - `ct"`: Change To Next `"` (leaving the `"`)
 - `df|`: Delete to Next `|` (including the `|`)
+- `ea`: Insert cursor end of the word.
