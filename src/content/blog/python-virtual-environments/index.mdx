@@ -61,3 +61,31 @@ virtualenv .venv
 # For Linux:
 source .venv/bin/activate
 ```
+
+### 3. Using conda 
+conda is another popular tool for creating virtual environments, especially in the data science community. Unlike venv and virtualenv, conda manages both Python packages and dependencies from other ecosystems, such as R, C++, and Fortran. conda environments are ideal for projects that require more than just Python libraries.
+
+Installing conda:
+conda comes with the Anaconda or Miniconda distribution. If you haven’t already, you can download and install Miniconda, which provides a minimal setup to get started.
+
+Steps to Create and Activate a Virtual Environment using conda:
+Create a virtual environment: Specify the version of Python you want:
+
+```python
+conda create .venv python=3.8
+```
+Activate the virtual environment:
+
+```python
+conda activate .venv 
+```
+
+```python
+conda install numpy
+pip install pandas
+```
+<h3>Deactivate the virtual environment:</h3>
+
+```python
+conda deactivate
+```
