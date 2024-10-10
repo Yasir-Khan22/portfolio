@@ -9,16 +9,13 @@ In this guide, we will look at different ways of creating virtual environments i
 
 The `venv` module is included in the Python standard library and is the most straightforward way to create a virtual environment. It is lightweight and easy to use. To create a virtual environment using `venv`, run the following command:
 
-1. <h3>Steps to Create and Activate a Virtual Environment using venv:</h3>
-
-Open your terminal or command prompt and navigate to your project directory. Then, run:
+Open your terminal or command prompt and navigate to your project directory, then run:
 
 ```python
 # python -m venv <Name-of-the-virtual-environment>
 python -m venv .venv 
 ```
-
-2. <h3 style={{fontSize: "20px", fontWeight: "medium"}}>Activate the virtual environment:</h3>
+<b style={{fontSize: "1.2rem",}}>&rArr;</b> Activate the virtual environment:
 
 ```python
 # For Windows
@@ -49,7 +46,7 @@ Create a virtual environment: You can create a virtual environment similarly to 
 ```python 
 virtualenv .venv 
 ```
-2. <h3>Activate the virtual environment:</h3>
+<b style={{fontSize: "1.2rem",}}>&rArr;</b> Activate the virtual environment:
 
 ```python
 # For Windows:
@@ -68,19 +65,18 @@ Installing conda:
 conda comes with the Anaconda or Miniconda distribution. If you haven’t already, you can download and install Miniconda, which provides a minimal setup to get started.
 
 Steps to Create and Activate a Virtual Environment using conda:
-Create a virtual environment: Specify the version of Python you want:
+- Create a virtual environment: 
+- Specify the version of Python you want:
 
 ```python
 conda create .venv python=3.8
 ```
-<h3>Activate the virtual environment:</h3>
+
+<b style={{fontSize: "1.2rem",}}>&rArr;</b> Activate the virtual environment:
 
 ```python
+# for activation.
 conda activate .venv 
-```
-
-<h3>Deactivate the virtual environment:</h3>
-
-```python
+# for deactivation.
 conda deactivate
 ```
