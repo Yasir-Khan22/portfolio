@@ -5,9 +5,7 @@ date: "Mar 16 202"
 ---
 In this guide, we will look at different ways of creating virtual environments in Python. Virtual environments are used to manage dependencies and isolate projects from one another. This helps avoid conflicts between different versions of packages and ensures that each project has its own set of dependencies. 
 
-Creating virtual environments in Python is essential for managing dependencies and ensuring that projects remain isolated from one another. Here are three common ways to create Python virtual environments:
-
-### 1. Using `venv`
+<h1 style={{fontWeight:"bold", fontSize: "30px"}}> 1. Using `venv` </h1>
 
 The `venv` module is included in the Python standard library and is the most straightforward way to create a virtual environment. It is lightweight and easy to use. To create a virtual environment using `venv`, run the following command:
 
@@ -20,7 +18,7 @@ Open your terminal or command prompt and navigate to your project directory. The
 python -m venv .venv 
 ```
 
-2. <h3>Activate the virtual environment:</h3>
+2. <h3 style={{fontSize: "20px", fontWeight: "medium"}}>Activate the virtual environment:</h3>
 
 ```python
 # For Windows
@@ -35,7 +33,7 @@ source .venv/bin/activate
 Once activated, your terminal prompt will change to show the active environment (e.g., (.venv)), indicating that the virtual environment is active.
 
 
-### 2. Using "virtualenv"
+<h2 style={{fontSize: "30px", fontWeight: "bold"}}> 2. Using "virtualenv" </h2>
 
 virtualenv is an older tool that is still widely used and can create virtual environments for both Python 2 and Python 3. Unlike venv, virtualenv offers additional flexibility and compatibility with older versions of Python.
 
