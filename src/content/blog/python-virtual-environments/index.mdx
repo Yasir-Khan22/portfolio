@@ -3,9 +3,10 @@ title: "Python Virtual Environments"
 description: "Different ways of creating virtual environments in Python."
 date: "Mar 16 2024"
 ---
-In this guide, we will look at different ways of creating virtual environments in Python. Virtual environments are used to manage dependencies and isolate projects from one another. This helps avoid conflicts between different versions of packages and ensures that each project has its own set of dependencies. 
 
-<h1 style={{fontWeight:"bold", fontSize: "30px"}}> 1. Using `venv` </h1>
+In this guide, we will look at different ways of creating virtual environments in Python. Virtual environments are used to manage dependencies and isolate projects from one another. This helps avoid conflicts between different versions of packages and ensures that each project has its own set of dependencies.
+
+<h1 style={{ fontWeight: "bold", fontSize: "30px" }}> 1. Using `venv` </h1>
 
 The `venv` module is included in the Python standard library and is the most straightforward way to create a virtual environment. It is lightweight and easy to use. To create a virtual environment using `venv`, run the following command:
 
@@ -13,9 +14,10 @@ Open your terminal or command prompt and navigate to your project directory, the
 
 ```python
 # python -m venv <Name-of-the-virtual-environment>
-python -m venv .venv 
+python -m venv .venv
 ```
-<b style={{fontSize: "1.2rem",}}>&rArr;</b> Activate the virtual environment:
+
+<b style={{ fontSize: "1.2rem" }}>&rArr;</b> Activate the virtual environment:
 
 ```python
 # For Windows
@@ -29,8 +31,10 @@ source .venv/bin/activate
 
 Once activated, your terminal prompt will change to show the active environment (e.g., (.venv)), indicating that the virtual environment is active.
 
-
-<h2 style={{fontSize: "30px", fontWeight: "bold"}}> 2. Using "virtualenv" </h2>
+<h2 style={{ fontSize: "30px", fontWeight: "bold" }}>
+  {" "}
+  2. Using "virtualenv"{" "}
+</h2>
 
 Virtualenv is an older tool that is still widely used and can create virtual environments for both Python 2 and Python 3. Unlike venv, virtualenv offers additional flexibility and compatibility with older versions of Python.
 
@@ -43,10 +47,11 @@ pip install virtualenv
 Steps to Create and Activate a Virtual Environment using virtualenv:
 Create a virtual environment: You can create a virtual environment similarly to venv:
 
-```python 
-virtualenv .venv 
+```python
+virtualenv .venv
 ```
-<b style={{fontSize: "1.2rem",}}>&rArr;</b> Activate the virtual environment:
+
+<b style={{ fontSize: "1.2rem" }}>&rArr;</b> Activate the virtual environment:
 
 ```python
 # For Windows:
@@ -58,7 +63,7 @@ virtualenv .venv
 source .venv/bin/activate
 ```
 
-<h2 style={{fontSize: "30px", fontWeight: "bold"}}> 3. Using "Conda" </h2>
+<h2 style={{ fontSize: "30px", fontWeight: "bold" }}> 3. Using "Conda" </h2>
 
 Conda is another popular tool for creating virtual environments, especially in the data science community. Unlike venv and virtualenv, conda manages both Python packages and dependencies from other ecosystems, such as R, C++, and Fortran. conda environments are ideal for projects that require more than just Python libraries.
 
@@ -66,18 +71,19 @@ Installing conda:
 conda comes with the Anaconda or Miniconda distribution. If you haven’t already, you can download and install Miniconda, which provides a minimal setup to get started.
 
 Steps to Create and Activate a Virtual Environment using conda:
-- Create a virtual environment: 
+
+- Create a virtual environment:
 - Specify the version of Python you want:
 
 ```python
 conda create .venv python=3.8
 ```
 
-<b style={{fontSize: "1.2rem",}}>&rArr;</b> Activate the virtual environment:
+- Activate the virtual environment
 
 ```python
 # for activation.
-conda activate .venv 
+conda activate .venv
 # for deactivation.
 conda deactivate
 ```
