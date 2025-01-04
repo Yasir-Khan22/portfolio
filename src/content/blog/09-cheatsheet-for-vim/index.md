@@ -58,3 +58,4 @@ draft: false
 - `ea`: Insert cursor end of the word.
 - `$`: Scroll to Right.
 - `^`: Scroll to Left.
+- `Ctrl+L`: Scrolling for Downward/bottom.
