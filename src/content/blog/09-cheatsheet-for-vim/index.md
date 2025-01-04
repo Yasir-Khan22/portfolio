@@ -59,3 +59,4 @@ draft: false
 - `$`: Scroll to Right.
 - `^`: Scroll to Left.
 - `Ctrl+L`: Scrolling for Downward/bottom.
+- `Ctrl+H`: Scroll to Upward/Top.
