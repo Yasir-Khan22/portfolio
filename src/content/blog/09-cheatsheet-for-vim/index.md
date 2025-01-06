@@ -60,3 +60,4 @@ draft: false
 - `^`: Scroll to Left.
 - `Ctrl+L`: Scrolling for Downward/bottom.
 - `Ctrl+H`: Scroll to Upward/Top.
+- `.`: Repeat Last Search.
